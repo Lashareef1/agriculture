@@ -1,0 +1,4 @@
+CO2,Radiation,diameter,humidity,outside_temperature,inside_temperature,measurement
+60.71,28.19,36.32,0.76,60.71,33.33,9.68
+57.6,31.2,34.54,0.69,57.6,36.15,9.91
+54.62,25.35,29.04,0.64,54.62,30.07,9.8
